@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ahmedfarazshah42@gmail.com**
 
-- ⚡ Last but not the least : **Trust and Quality Matters for me**
+- ⚡ Last but not the least : **Trust and Quality Matters **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
