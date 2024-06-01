@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfarazshah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfarazshah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedfarazshah" alt="ahmedfarazshah" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ahmedfarazsha" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedfarazsha?logo=twitter&style=for-the-badge" alt="ahmedfarazsha" /></a> </p>
 
 - 🔭 I’m currently working on **smart contracts & MERN stack development**
