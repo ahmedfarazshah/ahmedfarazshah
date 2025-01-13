@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/970fd771-e4ac-4456-8374-584dd56837b2)<h3 align="center">MERN stack & blockchain developer</h3>
+<h3 align="center">MERN stack & blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfarazshah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfarazshah" /> </p>
 
